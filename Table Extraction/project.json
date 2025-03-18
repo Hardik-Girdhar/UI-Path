@@ -1,7 +1,7 @@
 {
-  "name": "Notepad Automation",
-  "projectId": "5157015c-6419-4d74-8d97-8d9a2c3005ad",
-  "description": "Writing something on to the notepad application",
+  "name": "Table Extraction",
+  "projectId": "465bb8b2-490f-441d-ac8f-af44099b1483",
+  "description": "Table Extraction Process on acme-test.uipath.com",
   "main": "Main.xaml",
   "dependencies": {
     "UiPath.Excel.Activities": "[2.25.1-preview]",
@@ -49,7 +49,7 @@
   "entryPoints": [
     {
       "filePath": "Main.xaml",
-      "uniqueId": "85332bc0-ec1d-497c-9606-5606a09ff6a8",
+      "uniqueId": "0e0e2c07-0b76-49e0-9279-5b2441821db3",
       "input": [],
       "output": []
     }

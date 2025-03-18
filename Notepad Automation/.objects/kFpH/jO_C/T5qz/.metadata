@@ -1,0 +1,13 @@
+﻿{
+  "Name": "HardikNotepad - Notepad",
+  "Type": "Screen",
+  "Id": "T5qz98sEbk241QJV5ZP-mw",
+  "Reference": "Wp0vQcG-MU2s2CFIYvrZiw/T5qz98sEbk241QJV5ZP-mw",
+  "ParentRef": "Wp0vQcG-MU2s2CFIYvrZiw/jO_CMbXuaE6bXrurb6-g7g",
+  "Created": "2025-03-18T10:58:56.8983797Z",
+  "Updated": "2025-03-18T10:58:56.8983797Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.2.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

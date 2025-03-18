@@ -1,0 +1,12 @@
+﻿{
+  "Name": "HardikNotepad - Notepad",
+  "Type": "App",
+  "Id": "kFpHwdDx_UCTwlA2iu0k1A",
+  "Reference": "Wp0vQcG-MU2s2CFIYvrZiw/kFpHwdDx_UCTwlA2iu0k1A",
+  "Created": "2025-03-18T10:58:56.7122111Z",
+  "Updated": "2025-03-18T10:58:56.7122111Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.2.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
